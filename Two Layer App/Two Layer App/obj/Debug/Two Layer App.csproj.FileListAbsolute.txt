@@ -1,0 +1,10 @@
+c:\users\syel\source\repos\Two Layer App\Two Layer App\bin\Debug\Two Layer App.exe.config
+c:\users\syel\source\repos\Two Layer App\Two Layer App\bin\Debug\Two Layer App.exe
+c:\users\syel\source\repos\Two Layer App\Two Layer App\bin\Debug\Two Layer App.pdb
+c:\users\syel\source\repos\Two Layer App\Two Layer App\obj\Debug\Two Layer App.csprojResolveAssemblyReference.cache
+c:\users\syel\source\repos\Two Layer App\Two Layer App\obj\Debug\Two_Layer_App.Form1.resources
+c:\users\syel\source\repos\Two Layer App\Two Layer App\obj\Debug\Two_Layer_App.Properties.Resources.resources
+c:\users\syel\source\repos\Two Layer App\Two Layer App\obj\Debug\Two Layer App.csproj.GenerateResource.Cache
+c:\users\syel\source\repos\Two Layer App\Two Layer App\obj\Debug\Two Layer App.csproj.CoreCompileInputs.cache
+c:\users\syel\source\repos\Two Layer App\Two Layer App\obj\Debug\Two Layer App.exe
+c:\users\syel\source\repos\Two Layer App\Two Layer App\obj\Debug\Two Layer App.pdb
