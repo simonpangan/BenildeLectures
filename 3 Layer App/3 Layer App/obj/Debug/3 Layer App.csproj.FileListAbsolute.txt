@@ -1,0 +1,10 @@
+c:\users\syel\source\repos\3 Layer App\3 Layer App\bin\Debug\3 Layer App.exe.config
+c:\users\syel\source\repos\3 Layer App\3 Layer App\bin\Debug\3 Layer App.exe
+c:\users\syel\source\repos\3 Layer App\3 Layer App\bin\Debug\3 Layer App.pdb
+c:\users\syel\source\repos\3 Layer App\3 Layer App\obj\Debug\3 Layer App.csprojResolveAssemblyReference.cache
+c:\users\syel\source\repos\3 Layer App\3 Layer App\obj\Debug\_3_Layer_App.Form1.resources
+c:\users\syel\source\repos\3 Layer App\3 Layer App\obj\Debug\_3_Layer_App.Properties.Resources.resources
+c:\users\syel\source\repos\3 Layer App\3 Layer App\obj\Debug\3 Layer App.csproj.GenerateResource.Cache
+c:\users\syel\source\repos\3 Layer App\3 Layer App\obj\Debug\3 Layer App.csproj.CoreCompileInputs.cache
+c:\users\syel\source\repos\3 Layer App\3 Layer App\obj\Debug\3 Layer App.exe
+c:\users\syel\source\repos\3 Layer App\3 Layer App\obj\Debug\3 Layer App.pdb
