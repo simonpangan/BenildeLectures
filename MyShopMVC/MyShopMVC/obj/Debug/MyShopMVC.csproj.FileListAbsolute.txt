@@ -1,0 +1,97 @@
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\MyShopMVC.dll.config
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\MyShopMVC.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\MyShopMVC.pdb
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\csc.exe
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\csc.exe.config
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\csc.rsp
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\csi.exe
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\csi.rsp
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\System.AppContext.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\vbc.exe
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\vbc.exe.config
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\vbc.rsp
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Helpers.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Mvc.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Razor.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Razor.xml
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.xml
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Helpers.xml
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\System.Web.Mvc.xml
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\obj\Debug\MyShopMVC.csprojAssemblyReference.cache
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\obj\Debug\MyShopMVC.csproj.CoreCompileInputs.cache
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\obj\Debug\MyShopMVC.csproj.CopyComplete
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\obj\Debug\MyShopMVC.dll
+C:\Users\infoasia\Google Drive\Documents\ISPROG3\Websites\SY19T1\MyShopMVC\MyShopMVC\obj\Debug\MyShopMVC.pdb
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\MyShopMVC.dll.config
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\MyShopMVC.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\MyShopMVC.pdb
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\csc.exe
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\csc.exe.config
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\csc.rsp
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\csi.exe
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\csi.rsp
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\System.AppContext.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\vbc.exe
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\vbc.exe.config
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\vbc.rsp
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Helpers.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Mvc.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Razor.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Razor.xml
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.xml
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Helpers.xml
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\System.Web.Mvc.xml
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\obj\Debug\MyShopMVC.csprojResolveAssemblyReference.cache
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\obj\Debug\MyShopMVC.csproj.CoreCompileInputs.cache
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\obj\Debug\MyShopMVC.dll
+C:\Users\limpinaj\Desktop\MyShopMVC\MyShopMVC\obj\Debug\MyShopMVC.pdb
