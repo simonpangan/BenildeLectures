@@ -1,0 +1,57 @@
+﻿@using Intepro.BusinessLogic
+@model EmployeeModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <link href="~/bootstrap-4.0.0-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <script src="~/bootstrap-4.0.0-dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-6 offset-3">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Edit Employee</h4>
+                    </div>
+                    <div class="card-body">
+                        <form action="~/Employee/Update" method="post">
+                            <input type="hidden" name="ID" value="@Model.ID" />
+                            Name (last, first)
+                            <input type="text" name="Lastname"
+                                   class="form-control" value="@Model.Lastname" />
+                            <input type="text" name="Firstname"
+                                   class="form-control" value="@Model.Firstname" />
+                            <br />
+                            Date hired
+                            <input type="text" name="DateHired"
+                                   class="form-control" value="@Model.DateHired" />
+                            <br />
+                            Hourly rate
+                            <input type="number" step="0.01" name="HourlyRate"
+                                   class="form-control"
+                                   value="@Model.HourlyRate" />
+                            <br />
+                            <button type="submit"
+                                    class="btn btn-info fa-pull-right">
+                                <i class="fa fa-save"></i>
+                                Save Changes
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

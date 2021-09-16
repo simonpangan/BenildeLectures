@@ -1,0 +1,72 @@
+﻿@using Intepro.BusinessLogic
+@model List<EmployeeModel>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <link href="~/bootstrap-4.0.0-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <script src="~/bootstrap-4.0.0-dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h3>
+            <i class="fa fa-user"></i>
+            Employee List
+        </h3>
+        <hr />
+        <a href="~/Employee/Add" class="btn btn-outline-primary">
+            <i class="fa fa-plus"></i>
+            Add New
+        </a>
+        <br /><br />
+        <table class="table table-hover table-striped table-bordered table-sm">
+            <thead>
+                <tr>
+                    <th>I.D.</th>
+                    <th>Last name</th>
+                    <th>First name</th>
+                    <th>Date hired</th>
+                    <th>Hourly rate</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (EmployeeModel emp in Model)
+                {
+                    <tr>
+                        <td>@emp.ID</td>
+                        <td>@emp.Lastname</td>
+                        <td>@emp.Firstname</td>
+                        <td>@emp.DateHired</td>
+                        <td>@emp.HourlyRate</td>
+                        <td>
+                            <a href="~/Employee/Edit?EmployeeID=@emp.ID"
+                               class="btn btn-info btn-sm">
+                                <i class="fa fa-edit"></i>
+                                Edit
+                            </a>
+
+                            <form action="~/Employee/Delete" method="post"
+                                  style="display: inline">
+                                <input type="hidden" name="ID" value="@emp.ID" />
+                                <button type="submit"
+                                        class="btn btn-danger btn-sm">
+                                    <i class="fa fa-trash"></i>
+                                    Delete
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
