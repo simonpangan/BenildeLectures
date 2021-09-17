@@ -21,6 +21,16 @@
   	<servlet-name>res</servlet-name>
   	<servlet-class>com.benilde.myServlet.ResultServlet</servlet-class>
   </servlet>
+   <servlet>
+  <servlet-name>Login</servlet-name>
+  	<servlet-class>com.benilde.myServlet.LoginServlet</servlet-class>
+  </servlet>
+   <servlet>
+  	<servlet-name>validateLogin</servlet-name>
+  	<servlet-class>com.benilde.myServlet.ValidateLoginServlet</servlet-class>
+  </servlet>
+  
+  
   <servlet-mapping>
   	<servlet-name>test</servlet-name>
   	<url-pattern>/MyServlet</url-pattern>
@@ -33,4 +43,13 @@
   	<servlet-name>res</servlet-name>
   	<url-pattern>/Result </url-pattern>
   </servlet-mapping>
+   <servlet-mapping>
+  	<servlet-name>Login</servlet-name>
+  	<url-pattern>/Login </url-pattern>
+  </servlet-mapping>
+     <servlet-mapping>
+  	<servlet-name>validateLogin</servlet-name>
+  	<url-pattern>/validateLogin </url-pattern>
+  </servlet-mapping>
+  
 </web-app>
