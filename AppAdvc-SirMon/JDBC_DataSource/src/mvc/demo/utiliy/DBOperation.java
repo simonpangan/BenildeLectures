@@ -10,4 +10,6 @@ public interface DBOperation {
 			+ ",finalGrade"
 			+ ",remarks"
 			+ ") VALUES (?,?,?,?,?,?)";
+	
+	String SELECT_ALL_RECORDS = "SELECT * FROM studentgrade";
 }

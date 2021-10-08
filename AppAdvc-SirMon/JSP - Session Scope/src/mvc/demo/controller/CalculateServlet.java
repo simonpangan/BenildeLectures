@@ -30,11 +30,13 @@ public class CalculateServlet extends HttpServlet {
 		grade.computeFinalGrade();
 		grade.determineRemarks();
 		
+	
+		
 		HttpSession session = request.getSession();
 		session.setAttribute("grado" , grade);
 		
 		request.getRequestDispatcher("display.jsp").forward(request, response);
 		
 	}
-
+	
 }
