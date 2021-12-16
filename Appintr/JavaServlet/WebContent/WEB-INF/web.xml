@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>TestServlet</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+  	<servlet-name>test</servlet-name>
+  	<servlet-class>com.benilde.myServlet.TestServlet</servlet-class>
+  </servlet>
+    <servlet>
+  	<servlet-name>add</servlet-name>
+  	<servlet-class>com.benilde.myServlet.AddServlet</servlet-class>
+  </servlet>
+    <servlet>
+  	<servlet-name>res</servlet-name>
+  	<servlet-class>com.benilde.myServlet.ResultServlet</servlet-class>
+  </servlet>
+   <servlet>
+  <servlet-name>Login</servlet-name>
+  	<servlet-class>com.benilde.myServlet.LoginServlet</servlet-class>
+  </servlet>
+   <servlet>
+  	<servlet-name>validateLogin</servlet-name>
+  	<servlet-class>com.benilde.myServlet.ValidateLoginServlet</servlet-class>
+  </servlet>
+  
+  
+  <servlet-mapping>
+  	<servlet-name>test</servlet-name>
+  	<url-pattern>/MyServlet</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+  	<servlet-name>add</servlet-name>
+  	<url-pattern>/AddServlet </url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+  	<servlet-name>res</servlet-name>
+  	<url-pattern>/Result </url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+  	<servlet-name>Login</servlet-name>
+  	<url-pattern>/Login </url-pattern>
+  </servlet-mapping>
+     <servlet-mapping>
+  	<servlet-name>validateLogin</servlet-name>
+  	<url-pattern>/validateLogin </url-pattern>
+  </servlet-mapping>
+  
+</web-app>
